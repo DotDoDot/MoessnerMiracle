@@ -14,3 +14,8 @@ Output:
 The output is an array of arrays containing each iteration of summing up the previous arrays non highlighted numbers. The last array in the array of arrays is the Moessner's Miracle sequence. In the above case the sequence is 
 
 [1, 8, 27, 64, 125, 216] or [1^3, 2^3, 3^3, 4^3, 5^3, 6^3]
+
+
+More information worth looking into:
+
+https://www.dragonwasrobot.com/mathematics/2016/01/12/an-introduction-to-moessner-s-theorem-and-moessner-s-sieve.html
